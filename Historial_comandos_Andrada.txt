@@ -1,0 +1,116 @@
+ls
+rm -r clase4
+ls
+ls -l
+pwd
+whoami
+man
+man man
+ls
+ls -l
+ls -la
+cd .ssh
+ls -la
+cd ..
+cat /ect/group
+cat/etc/group
+cat /etc/group
+cat /etc/group |more
+ls -l
+cat readme
+cat README
+mkidir clase4
+ls -l
+cd clase4
+ls -ls
+cd clase4
+mkadir clase4
+clase4
+mkadir clase4
+cd clase4
+mkadir clase4
+mkdir clase4
+cd clase4
+cat > archivo1.txt
+ls -l
+ls
+ls -l
+cd repogit
+ls -l
+cd ..
+su - Ignacio
+psw
+sudo adduser Ignacio
+sudo adduser ignacio
+su - ignacio
+ls /home
+echo hola
+echo hola >>texto.txt
+cat texto.txt
+cd ..
+echo hola
+mkdir clase5
+ls -l
+mkdir clase5
+cat README
+rm script*
+ls -l
+cd ..
+ls -l
+mkdir clase5
+“ssh-keygen -t ed25519
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cd repogit
+git clone git@github.com:Ignacio310731/TP_AySO_Andrada_Ignacio.git
+cd TP_AySO_Andrada_Ignacio/
+pdw
+pwd
+ls -l
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release >
+datos_url.txt
+git status
+git config --global user.email nacho2007clubtucuman@gmail.com
+git config --global user.name Ignacio310731
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git status
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git commit -m “feat: Añadiendo información de CPU"
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo informacion de CPU"
+git add .
+git push
+cat <<EOF >> README.md
+Alumno: Ignacio
+Division: 211
+Turno: Tarde
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+tree ~/materia1 ~/materia2
+sudo snap install tree  # version 2.1.3+pkg-5852
+tree ~/materia1 ~/materia2
+cat << 'EOF' > script_dir.sh
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+EOF
+
+chmod +x script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
